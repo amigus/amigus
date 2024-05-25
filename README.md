@@ -2,7 +2,7 @@
 
 📛 My name is Adam.
 
-🏢 I am the Founder and CEO of [The Migus Group](https://migusgroup.com).
+🏢 I am the Founder and CEO of [The Migus Group](https://github.com/The-Migus-Group).
 
 👔 I write software, manage servers, and analyze data.
 
