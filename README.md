@@ -1,14 +1,14 @@
-### Hello World 👋
+### Hello, World! 👋
 
 📛 My name is Adam.
 
 🏢 I am the Founder and CEO of [The Migus Group](https://github.com/The-Migus-Group).
 
-👔 I write software, manage servers, and analyze data.
+👔 I help organizations reduce their cybersecurity risk. I analyze, develop, maintain, and secure software.
 
-📖 I write Golang, C#, and Python nowadays but I used to write a lot of Java, C, *sh, and Perl too.
+📖 I write Golang, Python, and C# nowadays, but I have also written a lot of C, Java, Perl, and UNIX Shell.
 
-🧰 I use tools like Ansible and Docker (podman).
+🧰 I frequently use tools like Ansible, Docker (podman), and PowerShell.
 
 <!--
 **amigus/amigus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
