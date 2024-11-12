@@ -6,9 +6,9 @@
 
 👔 I help reduce cybersecurity risk by analyzing, engineering, and securing software.
 
-📖 I write Golang, Python, and C# nowadays, but I have also written a lot of C, Java, Perl, and UNIX Shell.
+📖 I primarily code in Golang, Python, and C# nowadays, but I have also written a lot of C, Java, Perl, and UNIX Shell.
 
-🧰 I frequently use tools like Ansible, Docker (podman), and PowerShell.
+🧰 I frequently use tools like Ansible, Docker (Podman), Hyper-V, KVM/QEMU, PowerShell, and VSCode.
 
 <!--
 **amigus/amigus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
