@@ -4,7 +4,7 @@
 
 🏢 I am the Founder and CEO of [The Migus Group](https://github.com/The-Migus-Group).
 
-👔 I help reduce their cybersecurity risk by analyzing, engineering, and securing software.
+👔 I help reduce cybersecurity risk by analyzing, engineering, and securing software.
 
 📖 I write Golang, Python, and C# nowadays, but I have also written a lot of C, Java, Perl, and UNIX Shell.
 
