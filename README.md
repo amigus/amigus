@@ -2,7 +2,7 @@
 
 🏢 I am the Founder and CEO of [The Migus Group](https://github.com/The-Migus-Group) and the creator of [CloudServers.app](https://cloudservers.app).
 
-👔 I help reduce cybersecurity risk by analyzing, engineering, and securing software.
+👔 I help reduce cybersecurity risk by analyzing, engineering, and securing software with the help of AI.
 
 📖 I primarily code in Golang, Python, and C# nowadays, but I have also written a lot of C, Java, Perl, and UNIX Shell.
 
