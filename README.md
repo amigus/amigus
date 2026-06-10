@@ -1,6 +1,4 @@
-### Hello, World! 👋
-
-📛 My name is Adam.
+### Hello, World, I'm Adam! 👋
 
 🏢 I am the Founder and CEO of [The Migus Group](https://github.com/The-Migus-Group) and the creator of [CloudServers.app](https://cloudservers.app).
 
