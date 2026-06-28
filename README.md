@@ -4,7 +4,7 @@
 
 📖 I code in Golang, Python, C#, and TypeScript; I also wrote a lot of C, Java, Perl, and UNIX sh back in the day.
 
-🧰 I use tools such as Ansible, Docker (Podman), Hyper-V, KVM/QEMU, PowerShell, and VSCode to write software and automate things.
+🧰 I use Ansible, Docker (Podman), Hyper-V, KVM/QEMU, PowerShell, and VS VSCode to code and deploy.
 
 <!--
 **amigus/amigus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
