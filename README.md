@@ -1,14 +1,10 @@
-### Hello, World, I'm Adam! 👋
+# Hi, I'm Adam Migus! 👋
 
 🏢 I am the Founder and CEO of [The Migus Group](https://github.com/The-Migus-Group) and the creator of [CloudServers.app](https://cloudservers.app).
 
-👔 I help reduce cybersecurity risk by analyzing, engineering, and securing software with the help of AI.
+📖 I code in Golang, Python, C#, and TypeScript; I also wrote a lot of C, Java, Perl, and UNIX sh back in the day.
 
-📖 I primarily code in Golang, Python, C#, and TypeScript nowadays, but I have also written a lot of C, Java, Perl, and UNIX Shell.
-
-🧰 I frequently use tools such as Ansible, Docker (Podman), Hyper-V, KVM/QEMU, PowerShell, and VSCode.
-
-🛠️ I'm working on AI/LLM-assisted software and infrastructure engineering.
+🧰 I use tools such as Ansible, Docker (Podman), Hyper-V, KVM/QEMU, PowerShell, and VSCode to write software and automate things.
 
 <!--
 **amigus/amigus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
