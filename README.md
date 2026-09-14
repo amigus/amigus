@@ -2,7 +2,7 @@
 
 🏢 I am the Founder and CEO of [The Migus Group](https://github.com/The-Migus-Group),
 the creator of [CloudServers.app](https://cloudservers.app),
-and author of the [Lisa Framework](/Lisa-Framework).
+and author of the [Lisa Framework](https://github.com/Lisa-Framework).
 
 📖 I code in Golang, Python, C#, and TypeScript; I also wrote a lot of C, Java, Perl, and UNIX sh back in the day.
 
